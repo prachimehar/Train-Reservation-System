@@ -17,3 +17,7 @@ A full-stack Train Reservation System that allows users to book, view, and delet
 - 📡 REST API integration between frontend & backend
 - 🎨 Responsive UI built with Tailwind CSS
 
+## 🖼️ Screenshots
+
+### 🔹 Home Page
+https://github.com/user-attachments/assets/6d463205-8660-4928-8932-6f212b786884
