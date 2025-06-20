@@ -19,5 +19,5 @@ A full-stack Train Reservation System that allows users to book, view, and delet
 
 ## 🖼️ Screenshots
 
-### 🔹 Home Page
+###                                      Home Page
 ![firstpp](https://github.com/user-attachments/assets/553203d9-e6a6-44c5-b591-1491318e4719)
